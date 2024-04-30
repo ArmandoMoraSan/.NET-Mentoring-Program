@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3W8MGGULFbkyB1tJpZXoh/663hWBJbQtr0zpagGgM3Y9ypVj3pOaUUhHY6l22jBG9caH0DkOOk5Z/aYtAl4Cjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Armando_Mora\\source\\repos\\.NET Mentoring Program\\Task1\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Armando_Mora\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
+    "C:\\Users\\Armando_Mora\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\Armando_Mora\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
