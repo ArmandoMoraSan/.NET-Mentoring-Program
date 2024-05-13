@@ -1,0 +1,8 @@
+C:\Users\Armando_Mora\Git-NET\.NET-Mentoring-Program\FileSystemVisitor\FileSystemVisitor\FileSystemVisitor\bin\Debug\FileSystemVisitor.exe.config
+C:\Users\Armando_Mora\Git-NET\.NET-Mentoring-Program\FileSystemVisitor\FileSystemVisitor\FileSystemVisitor\bin\Debug\FileSystemVisitor.exe
+C:\Users\Armando_Mora\Git-NET\.NET-Mentoring-Program\FileSystemVisitor\FileSystemVisitor\FileSystemVisitor\bin\Debug\FileSystemVisitor.pdb
+C:\Users\Armando_Mora\Git-NET\.NET-Mentoring-Program\FileSystemVisitor\FileSystemVisitor\FileSystemVisitor\obj\Debug\FileSystemVisitor.csproj.AssemblyReference.cache
+C:\Users\Armando_Mora\Git-NET\.NET-Mentoring-Program\FileSystemVisitor\FileSystemVisitor\FileSystemVisitor\obj\Debug\FileSystemVisitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Armando_Mora\Git-NET\.NET-Mentoring-Program\FileSystemVisitor\FileSystemVisitor\FileSystemVisitor\obj\Debug\FileSystemVisitor.csproj.CoreCompileInputs.cache
+C:\Users\Armando_Mora\Git-NET\.NET-Mentoring-Program\FileSystemVisitor\FileSystemVisitor\FileSystemVisitor\obj\Debug\FileSystemVisitor.exe
+C:\Users\Armando_Mora\Git-NET\.NET-Mentoring-Program\FileSystemVisitor\FileSystemVisitor\FileSystemVisitor\obj\Debug\FileSystemVisitor.pdb
